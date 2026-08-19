@@ -1,45 +1,89 @@
-# 안녕하세요, 보안을 공부하는 대학생입니다 👋
+<div align="center">
 
-디지털 포렌식과 보안 사고 사후 분석에 관심을 가지고 공부하고 있습니다.  
-시스템에 남겨진 흔적을 분석하여 사건의 원인과 진행 과정을 밝혀내는 보안 전문가를 목표로 하고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=230&section=header&text=JIYOU%20KIM&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Incident%20Analysis%20%7C%20Cybersecurity&descSize=16&descAlignY=59&animation=fadeIn)
 
-## 👨‍💻 About Me
+### 흔적을 분석하고, 사건의 흐름을 밝혀내는 보안 전문가를 꿈꿉니다.
 
-- 🎓 선문대학교 2학년 · 25학번
-- 🔍 디지털 포렌식 및 보안 사고 사후 분석에 관심
-- 💻 Python과 C를 중심으로 프로그래밍 학습
-- 📝 공부하고 경험한 내용을 블로그에 기록하는 중
+선문대학교에서 디지털 포렌식과 보안 사고 사후 분석을 공부하고 있습니다.<br>
+분석 과정에서 얻은 지식과 경험을 기록하며 한 걸음씩 성장하고 있습니다.
 
-## 🛠 Tech Stack
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyou060720@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jiyou0720/posts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyou0720)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
-## 🚀 Projects
+## About Me
+
+```text
+🎓  Sun Moon University · 2nd Year · Class of 2025
+🔍  Interested in Digital Forensics & Post-Incident Analysis
+💻  Building projects with Python and C
+📝  Documenting what I learn and discover
+```
+
+## Focus
+
+| Digital Forensics | Incident Analysis | System Security |
+| :---: | :---: | :---: |
+| 디지털 증거와 시스템 흔적 분석 | 침해 과정과 원인 재구성 | 운영체제와 시스템 보안 학습 |
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=0F172A)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0F172A)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 [mindal](https://github.com/jiyou0720/mindal)
 
-> 심리 테스트와 AI 챗봇을 활용한 맞춤형 심리 상담 플랫폼
+심리 테스트와 AI 챗봇을 활용한 **맞춤형 심리 상담 플랫폼**입니다.
 
-사용자가 자신의 감정 상태를 이해하고 안전하게 고민을 나눌 수 있도록 심리 테스트, AI 상담, 감정 일기 및 익명 커뮤니티 기능을 제공하는 웹 플랫폼입니다.
+- 테스트 결과 기반 개인 맞춤 상담
+- 감정 일기 및 익명 커뮤니티
+- 상담 기록·요약과 감정 뱃지
+- 개인정보 보호를 고려한 서비스 설계
 
-- 심리 테스트 결과를 기반으로 한 개인 맞춤형 AI 상담
-- 공감형·인지행동치료(CBT)·솔루션 중심 상담 방식 제공
-- 상담 기록 및 요약, 감정 일기와 감정 카드 기능
-- 익명 커뮤니티와 활동 기반 감정 뱃지 시스템
-- 개인정보 보호와 AI 상담의 한계를 고려한 서비스 정책 설계
+`Python` `Flask` `React` `Next.js` · `MySQL` `MongoDB` `OpenAI API`
 
-`Python` `Flask` `React` `Next.js` `MySQL` `MongoDB` `OpenAI API`
+</td>
+<td width="50%" valign="top">
 
----
+### 🔔 [CollabNotify](https://github.com/jiyou0720/CollabNotify)
 
-### 🔐 PrivacyLens · 진행 중
+협업 도구의 이벤트를 Discord에서 관리하는 **통합 알림 서비스**입니다.
 
-> 개인정보 노출 위험을 발견하고 사용자가 자신의 정보를 보호할 수 있도록 돕는 프로젝트
+- GitHub·Jira·Confluence 웹훅 연동
+- HMAC 인증과 중복 이벤트 방지
+- PR·이슈·문서 활동 타임라인
+- 리뷰 스레드 생명주기 자동 관리
 
-개인정보가 수집·처리되는 과정에서 발생할 수 있는 위험을 분석하고, 사용자가 개인정보 노출 여부를 이해할 수 있도록 지원하는 프로젝트를 개발하고 있습니다.
+`Python 3.12` `FastAPI` `SQLAlchemy` · `SQLite` `Alembic` `Docker`
+
+</td>
+</tr>
+</table>
+
+### 🔐 PrivacyLens `In Progress`
+
+> 개인정보 노출 위험을 분석하고 사용자가 자신의 정보를 안전하게 보호하도록 돕는 프로젝트
 
 - 개인정보 및 보안 위험 분석 기능 개발
 - 분석 결과를 이해하기 쉽게 전달하는 방식 연구
@@ -47,33 +91,23 @@
 
 `Security` `Privacy` `Python`
 
----
+## Currently Studying
 
-### 🔔 [CollabNotify](https://github.com/jiyou0720/CollabNotify)
+```text
+01. Digital Forensics       디지털 증거 수집 및 분석
+02. Post-Incident Analysis  보안 사고 발생 이후의 원인과 흐름 분석
+03. Incident Response       침해사고 대응 절차와 기초
+04. System Security         운영체제 및 시스템 보안
+```
 
-> GitHub·Jira·Confluence의 협업 이벤트를 Discord에서 관리하는 통합 알림 서비스
+<div align="center">
 
-여러 협업 플랫폼에서 발생하는 이벤트를 프로젝트별 Discord 채널로 전달하고, 검토가 필요한 작업을 하나의 스레드에서 지속적으로 관리할 수 있도록 개발한 서비스입니다.
+### Let's Connect
 
-- GitHub, Jira, Confluence 웹훅 수신 및 Discord 알림 연동
-- HMAC 및 공유 시크릿을 이용한 웹훅 인증과 중복 이벤트 방지
-- Pull Request, Jira 이슈, Confluence 문서의 활동 타임라인 관리
-- 리뷰 상태·체크리스트·수정 요청·완료 후 스레드 보관 기능
-- SQLite와 Alembic을 활용한 데이터 및 마이그레이션 관리
-- Docker 배포, 상태 확인, 재시도 및 자동화 테스트 구성
+새로운 것을 배우고 기록하며 꾸준히 성장하겠습니다.
 
-`Python 3.12` `FastAPI` `Discord API` `SQLAlchemy` `SQLite` `Alembic` `Docker`
+**[Email](mailto:jiyou060720@gmail.com) · [Velog](https://velog.io/@jiyou0720/posts) · [GitHub](https://github.com/jiyou0720)**
 
-## 📚 Currently Studying
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=120&section=footer)
 
-- Digital Forensics
-- 보안 사고 사후 분석
-- 침해사고 대응 기초
-- Python과 C
-- 운영체제 및 시스템 보안
-
-## 📫 Contact
-
-- **Email:** [jiyou060720@gmail.com](mailto:jiyou060720@gmail.com)
-- **Blog:** [velog.io/@jiyou0720](https://velog.io/@jiyou0720/posts)
-- **GitHub:** [github.com/jiyou0720](https://github.com/jiyou0720)
+</div>
