@@ -1,78 +1,117 @@
-<h1 align="center">jiyou</h1>
+<div align="center">
 
-<p align="center">
-  Digital Forensics · Post-Incident Analysis · Cybersecurity
-</p>
+## Jiyou Park
 
-<p align="center">
-  <a href="mailto:jiyou060720@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://velog.io/@jiyou0720/posts">Velog</a> &nbsp;·&nbsp;
-  <a href="https://github.com/jiyou0720">GitHub</a>
-</p>
+**Digital Forensics · Cybersecurity · Backend**
+
+`Learning, analyzing, and documenting.`
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE)](mailto:jiyou060720@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-0D1117?style=flat-square&logo=velog&logoColor=22D3EE)](https://velog.io/@jiyou0720/posts)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/jiyou0720)
+
+</div>
 
 ---
 
-### About
+### About Me
 
-선문대학교에 재학 중인 25학번 2학년 학생입니다.<br>
-디지털 포렌식과 보안 사고 사후 분석을 공부하며, 시스템에 남은 흔적을 통해 사건의 원인과 흐름을 재구성하는 일에 관심이 있습니다.
+Computer Engineering student at **Sunmoon University**.<br>
+디지털 포렌식과 사이버보안을 중심으로 공부하며, 백엔드 개발 역량을 함께 쌓고 있습니다.<br>
+시스템과 서비스에 남은 흔적을 분석하고 사건의 흐름을 재구성하는 과정에 관심이 있습니다.<br>
+보안 아이디어를 실제 프로젝트로 구현하고, 배운 내용과 분석 과정을 꾸준히 기록합니다.
 
-```text
-focus      digital forensics, incident analysis
-learning   system security, incident response
-languages  python, c
-```
+### Areas of Interest
 
-### Stack
+| | Area | Focus |
+| :---: | --- | --- |
+| 🔎 | **Digital Forensics** | 디지털 증거와 시스템 흔적 분석 |
+| 🛡️ | **Cybersecurity** | 보안 위협과 방어 기술 |
+| ⚙️ | **Backend Development** | 안정적인 API와 서비스 구조 |
+| 🧪 | **Malware Analysis** | 정적·동적 분석과 행위 기반 평가 |
+| 🌐 | **Security Analysis** | 웹 서비스와 개인정보 위험 분석 |
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=F9FAFB)
-![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=F9FAFB)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F9FAFB)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=F9FAFB)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=F9FAFB)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=F9FAFB)
+### Tech Stack
 
-### Projects
+| Category | Technologies |
+| --- | --- |
+| **Languages** | `Java` `Python` `TypeScript` `C` |
+| **Backend** | `Spring Boot` `FastAPI` `Flask` |
+| **Data** | `PostgreSQL` `SQLite` |
+| **DevOps** | `Docker` `Linux` `Git` `GitHub Actions` |
+| **Frontend** | `React` `Next.js` |
 
-#### [mindal ↗](https://github.com/jiyou0720/mindal)
+### Featured Projects
 
-심리 테스트와 AI 챗봇을 활용한 맞춤형 심리 상담 플랫폼
+<table>
+<tr>
+<td>
 
-- 테스트 결과를 활용한 개인 맞춤형 AI 상담
-- 감정 일기, 익명 커뮤니티, 상담 기록 및 요약
-- 개인정보 보호와 AI 상담의 한계를 고려한 서비스 설계
+#### 🔐 [PrivacyLens](https://github.com/jiyou0720/PrivacyLens)
 
-`Python` `Flask` `React` `Next.js` `MySQL` `MongoDB` `OpenAI API`
+**Evidence-based privacy policy & consent analysis platform**
 
-#### PrivacyLens &nbsp; <sup>IN PROGRESS</sup>
+개인정보 처리방침과 회원가입 화면을 근거 기반으로 분석하고, 실제 개인정보 값 없이 제공 이력을 관리합니다. Chrome 확장 프로그램, 웹 대시보드, 분석 API로 구성된 모노레포 프로젝트입니다.
 
-개인정보 노출 위험을 분석하고 안전한 정보 관리를 돕는 프로젝트
+`TypeScript` `React` `Next.js` `Python` `FastAPI`
 
-- 개인정보 및 보안 위험 분석 기능 개발
-- 분석 결과를 직관적으로 전달하는 방법 연구
-- 개인정보 보호를 고려한 데이터 처리 구조 설계
+**[Repository →](https://github.com/jiyou0720/PrivacyLens)**
 
-`Security` `Privacy` `Python`
+</td>
+</tr>
+</table>
 
-#### [CollabNotify ↗](https://github.com/jiyou0720/CollabNotify)
+<table>
+<tr>
+<td>
 
-GitHub·Jira·Confluence의 이벤트를 Discord로 연결하는 통합 알림 서비스
+#### 🧪 [MalGuard Sandbox](https://github.com/jiyou0720/malguard-project)
 
-- 웹훅 인증과 중복 이벤트 방지
-- PR·이슈·문서 활동 타임라인 관리
-- 리뷰 스레드 생성부터 완료·보관까지 자동화
+**Malware analysis & behavior-based risk assessment platform**
+
+업로드한 파일의 해시와 PE 구조를 분석하고, 문자열·패킹 정보와 MITRE ATT&CK 매핑을 기반으로 위험도를 평가합니다. Spring Boot 백엔드와 Python 분석 서버를 분리하고 Docker Compose로 통합했습니다.
+
+`Java 21` `Spring Boot` `Python` `Flask` `PostgreSQL` `Docker`
+
+**[Repository →](https://github.com/jiyou0720/malguard-project)**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+#### 🔔 [CollabNotify](https://github.com/jiyou0720/CollabNotify)
+
+**Collaboration event routing & review workflow service**
+
+GitHub·Jira·Confluence 웹훅을 인증하여 프로젝트별 Discord 채널로 전달합니다. PR·이슈·문서 활동을 하나의 리뷰 스레드에 누적하고, 완료와 재개에 맞춰 스레드 생명주기를 자동 관리합니다.
 
 `Python 3.12` `FastAPI` `SQLAlchemy` `SQLite` `Alembic` `Docker`
 
-### Studying
+**[Repository →](https://github.com/jiyou0720/CollabNotify)**
 
-- Digital Forensics
-- Post-Incident Analysis
-- Incident Response
-- Operating System & System Security
+</td>
+</tr>
+</table>
+
+### Currently Exploring
+
+```text
+Digital Forensics    디지털 증거 수집과 분석
+Malware Analysis     정적·동적 분석 및 MITRE ATT&CK
+Backend Architecture 보안 서비스의 API와 데이터 설계
+Linux & Security     운영체제와 시스템 보안
+```
+
+### Contact
+
+- **Email** · [jiyou060720@gmail.com](mailto:jiyou060720@gmail.com)
+- **Blog** · [velog.io/@jiyou0720](https://velog.io/@jiyou0720/posts)
+- **GitHub** · [github.com/jiyou0720](https://github.com/jiyou0720)
 
 ---
 
-<p align="right">
-  <sub>Learning, analyzing, and documenting.</sub>
-</p>
+<p align="center"><sub>Learning with purpose. Analyzing with evidence. Documenting the process.</sub></p>
