@@ -10,7 +10,7 @@
 
 `Learning, analyzing, and documenting.`
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:jiyou060720@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:jiyou.0720.cs@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-0D1117?style=flat-square&logo=velog&logoColor=38BDF8)](https://velog.io/@jiyou0720/posts)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/jiyou0720)
 
