@@ -177,7 +177,7 @@ Chrome 확장 프로그램, Next.js 대시보드, FastAPI 분석 API로 구성�
 ### Contact
 
 <p align="center">
-  <a href="mailto:jiyou060720@gmail.com">Email</a>
+  <a href="mailto:jiyou.0720.cs@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://velog.io/@jiyou0720/posts">Velog</a>
   &nbsp;·&nbsp;
